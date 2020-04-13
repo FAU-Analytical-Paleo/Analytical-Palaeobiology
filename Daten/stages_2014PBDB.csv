@@ -1,0 +1,96 @@
+Series;Stage;stage.s;Age.b;Age.m;Age.t;stg.num
+Ediacaran;Avalon Assemblage;Ava;575;567.5;560;1
+Ediacaran;White Sea Assemblage;Whs;560;554.5;549;2
+Ediacaran;Nama Assemblage;Nam;549;545;541;3
+Terreneuvian;Fortunian;For;541;535;529;4
+Terreneuvian;Stage 2;St2;529;525;521;5
+Series 2;Stage 3;St3;521;517.5;514;6
+Series 2;Stage 4;St4;514;511.5;509;7
+Series 3;Stage 5;St5;509;506.75;504.5;8
+Series 3;Drumian;Dru;504.5;502.5;500.5;9
+Series 3;Guzhangian;Guz;500.5;498.75;497;10
+Furongian;Paibian;Pai;497;495.5;494;11
+Furongian;Jiangshanian;Jia;494;491.75;489.5;12
+Furongian;Lawsonian;Law;489.5;488.9;488.3;13
+Early Ordovician;Tremadocian;Tre;488.3;483.45;478.6;14
+Early Ordovician;Floian;Flo;478.6;475.2;471.8;15
+Middle Ordovician;Dapingian;Dap;471.8;469.95;468.1;16
+Middle Ordovician;Darriwilian;Dar;468.1;464.5;460.9;17
+Late Ordovician;Sandbian;Sbd;460.9;458.35;455.8;18
+Late Ordovician;Katian;Kat;455.8;450.7;445.6;19
+Late Ordovician;Hirnantian;Hir;445.6;444.65;443.7;20
+Llandovery;Rhuddanian;Rhu;443.7;441.35;439;21
+Llandovery;Aeronian;Aer;439;437.5;436;22
+Llandovery;Telychian;Tel;436;432.1;428.2;23
+Wenlock;Sheinwoodian;She;428.2;427.2;426.2;24
+Wenlock;Homerian;Hom;426.2;424.55;422.9;25
+Ludlow;Gorstian;Gor;422.9;422.1;421.3;26
+Ludlow;Ludfordian;Lud;421.3;420;418.7;27
+Pridoli;Pridoli;Pri;418.7;417.85;417;28
+Early Devonian;Lochkovian;Loc;417;414.65;412.3;29
+Early Devonian;Pragian;Pra;412.3;410.7;409.1;30
+Early Devonian;Emsian;Ems;409.1;400.5;391.9;31
+Middle Devonian;Eifelian;Eif;391.9;390;388.1;32
+Middle Devonian;Givetian;Giv;388.1;385.9;383.7;33
+Late Devonian;Frasnian;Fra;383.7;379.9;376.1;34
+Late Devonian;Famennian;Fam;376.1;368.4;360.7;35
+Mississippian;Tournaisian;Tou;360.7;353;345.3;36
+Mississippian;Visean;Vis;345.3;335.85;326.4;37
+Mississippian;Serpukhovian;Ser;326.4;322.25;318.1;38
+Pennsylvanian;Bashkirian;Bas;318.1;316.35;314.6;39
+Pennsylvanian;Moscovian;Mos;314.6;310.775;306.95;40
+Pennsylvanian;Kasimovian;Kas;306.95;305.175;303.4;41
+Pennsylvanian;Gzhelian;Gzh;303.4;301.15;298.9;42
+Cisuralian;Asselian;Ass;298.9;297.2;295.5;43
+Cisuralian;Sakmarian;Sak;295.5;292.8;290.1;44
+Cisuralian;Artinskian;Art;290.1;284.7;279.3;45
+Cisuralian;Kungurian;Kun;279.3;275.8;272.3;46
+Guadalupian;Roadian;Roa;272.3;270.55;268.8;47
+Guadalupian;Wordian;Wor;268.8;266.95;265.1;48
+Guadalupian;Capitanian;Cap;265.1;262.5;259.9;49
+Lopingian;Wuchiapingian;Wuc;259.9;257.035;254.17;50
+Lopingian;Changhsingian;Chg;254.17;253.17;252.17;51
+Early Triassic;Induan;Ind;252.17;251.735;251.3;52
+Early Triassic;Olenekian;Ole;251.3;249.25;247.2;53
+Middle Triassic;Anisian;Ani;247.2;244.6;242;54
+Middle Triassic;Ladinian;Lad;242;239.5;237;55
+Late Triassic;Carnian;Car;237;232.5;228;56
+Late Triassic;Norian;Nor;228;218.25;208.5;57
+Late Triassic;Rhaetian;Rha;208.5;204.9;201.3;58
+Early Jurassic;Hettangian;Het;201.3;198.9;196.5;59
+Early Jurassic;Sinemurian;Sin;196.5;193.65;190.8;60
+Early Jurassic;Pliensbachian;Plb;190.8;186.9;183;61
+Early Jurassic;Toarcian;Toa;183;179.3;175.6;62
+Middle Jurassic;Aalenian;Aal;175.6;173.6;171.6;63
+Middle Jurassic;Bajocian;Baj;171.6;169.95;168.3;64
+Middle Jurassic;Bathonian;Bat;168.3;167.2;166.1;65
+Middle Jurassic;Callovian;Cal;166.1;164.8;163.5;66
+Late Jurassic;Oxfordian;Oxf;163.5;160.4;157.3;67
+Late Jurassic;Kimmeridgian;Kim;157.3;154.7;152.1;68
+Late Jurassic;Tithonian;Tit;152.1;148.55;145;69
+Early Cretaceous;Berriasian;Ber;145;142.6;140.2;70
+Early Cretaceous;Valanginian;Val;140.2;138.3;136.4;71
+Early Cretaceous;Hauterivian;Hau;136.4;133.2;130;72
+Early Cretaceous;Barremian;Bar;130;127.725;125.45;73
+Early Cretaceous;Aptian;Apt;125.45;118.74;112.03;74
+Early Cretaceous;Albian;Alb;112.03;106.265;100.5;75
+Late Cretaceous;Cenomanian;Cen;100.5;97.2;93.9;76
+Late Cretaceous;Turonian;Tur;93.9;91.85;89.8;77
+Late Cretaceous;Coniacian;Con;89.8;88.05;86.3;78
+Late Cretaceous;Santonian;San;86.3;84.95;83.6;79
+Late Cretaceous;Campanian;Cam;83.6;77.1;70.6;80
+Late Cretaceous;Maastrichtian;Maa;70.6;68.3;66;81
+Paleocene;Danian;Dan;66;63.85;61.7;82
+Paleocene;Thanetian;Th;61.7;58.85;56;83
+Eocene;Ypresian;Ypr;56;51.9;47.8;84
+Eocene;Lutetian;Lut;47.8;44.55;41.3;85
+Eocene;Bartonian;Bar;41.3;39.65;38;86
+Eocene;Priabonian;Prb;38;35.95;33.9;87
+Oligocene;Rupelian;Rup;33.9;31.15;28.4;88
+Oligocene;Chattian;Cht;28.4;25.715;23.03;89
+Miocene;Early Miocene;EMI;23.03;19.5;15.97;90
+Miocene;Middle Miocene;Mmi;15.97;13.795;11.62;91
+Miocene;Late Miocene;Lmi;11.62;8.4765;5.333;92
+Pliocene;Pliocene;Pli;5.333;3.9605;2.588;93
+Pleistocene;Pleistocene;Ple;2.588;1.29985;0.0117;94
+Holocene;Holocene;Hol;0.0117;0.006;0;95

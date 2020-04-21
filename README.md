@@ -22,7 +22,7 @@ The students are able to
 
 ## Homework/Projects
 
-All homework are listed within the [Course Outline](#course-outline). As part of the course assignment, you will need to come up with your own project. 
+All homework are listed within the [Course Outline](#course-outline). As part of the course assignment, you will need to come up with your own project. More information on the course assignment can be found [here](#project-work)
 
 ### Workflow for homework/assignments
 
@@ -51,6 +51,23 @@ All homework are listed within the [Course Outline](#course-outline). As part of
 6. Sampling Standardization and Diversity Dynamics (Alpha, Beta, Gamma) with the 9. Paleobiology Database 
 7. Methods in phylogenies
 10. **Project work and presentation**
+
+## Project Work
+* You need to present our own project at the end (20 minutes) showing that
+  * You are able to ask an interesting scientific question
+  * Transform the question into a testable hypothesis
+  * Apply the methods learned in this course to test the hypothesis (or hypotheses)
+  * Discuss the results and provide clear conclusions
+* Start early to design your project
+  * Get inspired by the macroevolution lecture and examples provided in this course
+  * Get feedback from lecturers about the feasibility of your intended project and adjust
+  * Do your project work in the course (2nd half of semester) for constant advice
+* Evaluation criteria
+  * Scientific question and hypothesis
+  * Methodological toolkit applied
+  * Scientific understanding
+  * Originality of approach
+  * Presentation quality
 
 ## Resources
 

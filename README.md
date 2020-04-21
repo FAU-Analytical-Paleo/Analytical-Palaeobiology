@@ -40,7 +40,7 @@ All homework are listed within the [Course Outline](#course-outline). As part of
   * Tutorial: [Covid-19](https://github.com/FAU-Analytical-Paleo/Analytical-Palaeobiology/tree/master/Covid-19)
     * Evaluate data quality and selecting the best variables
     * Model time series data for prediction
-  * **Homework**: How sensitive are predictions to the number of known data points. We now have a history of 90 days to inform our model. How does forecast change when limiting the time of previous observations? (Link)[https://classroom.github.com/a/vlgjPLY6]
+  * **Homework**: How sensitive are predictions to the number of known data points. We now have a history of 90 days to inform our model. How does forecast change when limiting the time of previous observations? [Assignment Link](https://classroom.github.com/a/vlgjPLY6)
     - Limit data start to when Covi-19 became a global pandemic (March 1)
     - Limit data end to some arbitrary date in the first two weeks of April
 

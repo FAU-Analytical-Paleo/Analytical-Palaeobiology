@@ -1,10 +1,10 @@
 # Analytical Palaeobiology 2020
 
-* **Course:** Analytical Palaeobiology (PB-E2) 
+* **Course:** Analytical Palaeobiology (PB-E2)
 
 * **Instructors:** Wolfgang Kiessling, Rachel Warnock, Nussaibah Raja
 
-* **Access Notebook:** Click [here](https://diversity.rrze.uni-erlangen.de:18000/hub/login) to launch the interactive Jupyter notebook. Login details should have already been provided to you. 
+* **Access Notebook:** Click [here](https://diversity.rrze.uni-erlangen.de:18000/hub/login) to launch the interactive Jupyter notebook. Login details should have already been provided to you.
 
 Skip to [Course Outline](#course-outline)
 
@@ -40,15 +40,25 @@ All homework are listed within the [Course Outline](#course-outline). As part of
   * Tutorial: [Covid-19](https://github.com/FAU-Analytical-Paleo/Analytical-Palaeobiology/tree/master/Covid-19)
     * Evaluate data quality and selecting the best variables
     * Model time series data for prediction
-  * **Homework**: How sensitive are predictions to the number of known data points. We now have a history of 90 days to inform our model. How does forecast change when limiting the time of previous observations? [Assignment Link](https://classroom.github.com/a/T_cfKlcA)
+  * **Homework**: How sensitive are predictions to the number of known data points. We now have a history of 90 days to inform our model. How does forecast change when limiting the time of previous observations? [Solution](https://github.com/FAU-Analytical-Paleo/01-time-series-Mingmingkhan)
     - Limit data start to when Covi-19 became a global pandemic (March 1)
     - Limit data end to some arbitrary date in the first two weeks of April
 
 2. Time Series Analyses
+  * Attributes of time Series
+  * Autocorrelation
+  * Cross-Autocorrelation
+  * **Homework**
+    * Based on the data provided (`div_earthsystem.csv`), is there an influence of changes in earth  system parameters on changes in biodiversity and origination rates through geological time?
+    * Plot the raw data first:
+      * Diversity vs time + isotopic data and sea level
+      * Origination vs time + isotopic data and sea level
+    * Remove autocorrelation in the data and calculate cross correlations. What conclusions can you derive? [Assignment Link](https://classroom.github.com/a/O5GvqxOU)
+    
 3. The pitfalls and strengths data which are ordered in time
-4. Analyzing Evolutionary Trends 
+4. Analyzing Evolutionary Trends
 5. Diversity in Space and Time – Paleobiological Databases
-6. Sampling Standardization and Diversity Dynamics (Alpha, Beta, Gamma) with the 9. Paleobiology Database 
+6. Sampling Standardization and Diversity Dynamics (Alpha, Beta, Gamma) with the 9. Paleobiology Database
 7. Methods in phylogenies
 10. **Project work and presentation**
 

@@ -53,7 +53,7 @@ All homework are listed within the [Course Outline](#course-outline). As part of
     * Plot the raw data first:
       * Diversity vs time + isotopic data and sea level
       * Origination vs time + isotopic data and sea level
-    * Remove autocorrelation in the data and calculate cross correlations. What conclusions can you derive? [Assignment Link](https://classroom.github.com/a/O5GvqxOU)
+    * Remove autocorrelation in the data and calculate cross correlations. What conclusions can you derive? [Solution](https://github.com/FAU-Analytical-Paleo/Analytical-Palaeobiology/blob/master/Solutions/earth_system_master_exercise.R)
     
 3. The pitfalls and strengths data which are ordered in time
 4. Analyzing Evolutionary Trends

@@ -1,4 +1,4 @@
-# Master exercise
+# Master exercise: Earth System Parameters
 # Explore data of Cardenas and Harries (2010)
 
 dat <- read.csv("Daten/div_earthsystem.csv", sep=";", header=T)

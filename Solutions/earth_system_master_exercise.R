@@ -1,5 +1,5 @@
 # Master exercise
-# Explore data of Cardenas and Harries (2010)
+# Explore data of Cardenas and Harries (2010, Nature Geoscience)
 
 dat <- read.csv("Daten/div_earthsystem.csv", sep=";", header=T)
 # Look at data
